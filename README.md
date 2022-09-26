@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Misba-WebDeveloper
-- 👀 I’m interested in Creating Awesome websites
-- 🌱 I’m currently learning Master of computer Application
+- 👋 Hi, I’m @Misba-DevopsEng
+- 👀 I’m interested in Devops
+- 🌱 I've completed Master of computer Application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
